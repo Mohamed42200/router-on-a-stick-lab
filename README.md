@@ -1,4 +1,6 @@
 # router-on-a-stick-lab
+Router-on-a-Stick - This is an acceptable solution for a small to medium-sized network.
+
 This project demonstrates a small-scale network topology using Router-on-a-Stick configuration.
 The setup includes:
 Router-on-a-Stick for inter-VLAN routing.

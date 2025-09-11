@@ -1,4 +1,5 @@
 # router-on-a-stick-lab
+# notice, all passwords is 'cisco'
 Router-on-a-Stick - This is an acceptable solution for a small to medium-sized network.
 
 This project demonstrates a small-scale network topology using Router-on-a-Stick configuration.
